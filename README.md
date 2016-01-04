@@ -1,2 +1,3 @@
 # learnPy
-a repository for the code to learn python
+the code to learn python
+for data science for analytics with AXA
