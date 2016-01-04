@@ -1,3 +1,4 @@
 # learnPy
 the code to learn python
-for data science for analytics with AXA
+
+A training "data science for analytics" at AXA
